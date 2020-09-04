@@ -1,0 +1,41 @@
+img {
+  width: 200px;
+}
+
+form {
+  align-self: flex-start;
+}
+
+.con {
+  border: 1px solid whitesmoke;
+  margin-left: 350px;
+  /* margin-left: 90px;
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  justify-content: space-around; */
+  /*background-color: gray;*/
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  margin-top: 20px;
+  width: 30%;
+}
+
+.container {
+  font-size: 20px;
+  margin-top: 50px;
+  margin-left: 500px;
+  background-color: white;
+}
+
+#submitbtn {
+  margin-left: 50px;
+  padding: 0.7em;
+  color: white;
+  background-color: orangered;
+}
